@@ -34,7 +34,7 @@ See Credential: https://www.codewars.com/users/DCasely
 
 ---
 
-### Codecademmy | Computer Science (Certification)
+### Codecademy | Computer Science (Certification)
 
 See Credential: https://www.codecademy.com/profiles/DCASELY
 
