@@ -1,4 +1,4 @@
-# Davin Casely | Software Engineer at The Casely Group
+# Software Engineer at The Casely Group
 
 CodeWars Top 3% Honors
 
