@@ -16,7 +16,7 @@ I've developed 30+ projects using a variety of tools and technologies such as HT
 
 View Web Development Projects: http://davincasely.com
 
-View Company Website: http://thecaselygroup.com
+View Company Website: http://theCaselyGroup.com
 
 ## Education
 
