@@ -23,12 +23,10 @@ View Company Website: http://theCaselyGroup.com
 ### Massachusetts Institute of Technology
 
 MIT OpenCourseWare, Mathematics  
-2020 - 2022
 
-### freeCodeCamp
+### Abraham University
 
-Full Stack Developer Certification, Computer Software Engineering  
-2019 - 2020
+Entrepreneurship · Marketing · Sales, Business Strategy 
 
 ## Certifications
 
