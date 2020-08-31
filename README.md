@@ -2,7 +2,7 @@
 
 CodeWars Top 3% Honors 💯
 
-A Software Engineer with a focus on Enhancing Sales & Marketing Performance. 📈
+I am an Entrepreneur and a Software Engineer with a focus on Enhancing 📈 Sales & Marketing Performance.
 
 "If you're going to bet on someone, bet on him..." - Ricky V, Software Engineer at Facebook 
 
