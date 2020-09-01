@@ -2,9 +2,19 @@
 
 CodeWars Top 3% Honors 💯
 
-I am an Entrepreneur and a Software Engineer with a focus on Enhancing📈 Sales & Marketing Performance.
+"If you're going to bet on someone, bet on him..." - Ricky V, Software Engineer at Facebook
 
-"If you're going to bet on someone, bet on him..." - Ricky V, Software Engineer at Facebook 
+--------------------------------------------
+
+I am an Entrepreneur and a Software Engineer with a focus on Enhancing📈 Sales & Marketing Performance. 
+
+--------------------------------------------
+
+-MILLION💵 DOLLAR CLUB at Dominos Pizza. Grew sales from $700K to $1.2M after taking over Dominos Corporate Unit 3812. First in the 30-Year history to break the $1M marker for Unit 3812.
+
+-Founder of Point Guard Training, a basketball training program that sold successfully on a global scale to 17 different countries.
+
+-Recorded the HIGHEST SALES COMMISSION Payout in this history of Infinity Sales Group as a result of SELLING 109 accounts for Fortune 500 Dish Network and 52 accounts for HughesNet in the span of just 2-weeks.
 
 ## Experience
 
