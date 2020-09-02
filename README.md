@@ -16,6 +16,8 @@ I am an Entrepreneur and a Software Engineer with a focus on Enhancing📈 Sales
 
 -Recorded the HIGHEST SALES COMMISSION Payout in this history of Infinity Sales Group as a result of SELLING 109 accounts for Fortune 500 Dish Network and 52 accounts for HughesNet in the span of just 2-weeks.
 
+LinkedIn Profile: https://www.linkedin.com/in/davincasely/
+
 ## Experience
 
 ### The Casely Group
