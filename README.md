@@ -8,8 +8,6 @@ CodeWars Top 3% Honors 💯
 
 I am an Entrepreneur and a Software Engineer with a focus on Enhancing📈 Sales & Marketing Performance. 
 
-I've developed a multitude of projects using a variety of tools and technologies such as HTML5, CSS3, Sass, Bootstrap, JavaScript ES6, DOM Manipulation, jQuery, React, Redux, NodeJS, NPM, Express.js, EJS, RESTful APIs, Databases, SQL, MongoDB, Mongoose, Authentication, Wordpress, PHP, Elementor, Apache, MySQL, Python and more...
-
 --------------------------------------------
 
 -MILLION💵 DOLLAR CLUB at Dominos Pizza. Grew sales from $700K to $1.2M after taking over Dominos Corporate Unit 3812. First in the 30-Year history to break the $1M marker for Unit 3812.
