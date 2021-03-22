@@ -28,7 +28,7 @@ A Software Development Company With A Focus On Optimizing Your Company's Marketi
 
 I've developed a multitude of projects using a variety of tools and technologies such as HTML5, CSS3, Sass, Bootstrap, JavaScript ES6, DOM Manipulation, jQuery, React, Redux, NodeJS, NPM, Express.js, EJS, RESTful APIs, Databases, SQL, MongoDB, Mongoose, Authentication, Wordpress, PHP, Apache, MySQL, Python and more...
 
-View Company Website: http://theCaselyGroup.com
+View Company Website: https://thecaselygroup.com
 
 ## Education
 
