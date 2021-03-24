@@ -6,7 +6,7 @@ CodeWars Top 3% Honors 💯
 
 --------------------------------------------
 
-I am an Entrepreneur and a Software Engineer with a focus on Enhancing📈 Sales & Marketing Performance. 
+I am an Entrepreneur and a Software Engineer with a focus on Enhancing Sales & Marketing Performance. 📈
 
 --------------------------------------------
 
