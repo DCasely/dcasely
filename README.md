@@ -6,7 +6,7 @@
 
 <h1>Software Engineer at The Casely Group</h1>
 
-<p>CodeWars Top 3% Honors 💯</p>
+<h2>CodeWars Top 3% Honors 💯</h2>
 
 <p>
 "If you're going to bet on someone, bet on him..." - Ricky V, Software Engineer at Facebook
