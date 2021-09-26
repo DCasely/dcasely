@@ -15,7 +15,7 @@
 <hr>
 
 <p>
-I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning to Optimize Your Marketing & Sales Performance. 📈
+I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning<br> to Optimize Your Marketing & Sales Performance. 📈
 </p>
 
 <hr>
@@ -26,7 +26,7 @@ I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Le
 
 <p>2019 - Present</p>
 
-<p style="max-width: 500px">
+<p>
 A Software Development Company With A Focus On Optimizing Your Company's Marketing & Sales Performance
 </p>
 
