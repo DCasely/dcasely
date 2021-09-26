@@ -23,7 +23,7 @@ I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Le
 <div align="center">
     <img src="https://thecaselygroup.com/images/fullwidth-gallery-mdclcp-420x350.png" width="25%" style="margin:10px">
     <img src="https://thecaselygroup.com/images/fullwidth-gallery-be-env-420x350-2.png" alt="Be ENV | Wellness &amp; Aesthetics" width="25%" style="margin:10px">
-    <img src="https://thecaselygroup.com/videos/poster-x-neurospine.png" alt="Be ENV | Wellness &amp; Aesthetics" width="25%" style="margin:10px">        
+    <img src="https://thecaselygroup.com/images/fullwidth-gallery-vivatherapysolutions-420x350.png" alt="Be ENV | Wellness &amp; Aesthetics" width="25%" style="margin:10px">        
 </div>
 
 <h2>Experience</h2>
