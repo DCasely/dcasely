@@ -1,4 +1,4 @@
-# Software Engineer at The Casely Group
+# Software Engineer at The Casely Group ![alt text](http://thecaselygroup.com/images/logo-white.png)
 
 CodeWars Top 3% Honors 💯
 
