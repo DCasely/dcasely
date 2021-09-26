@@ -4,70 +4,80 @@
 
 <div align="center">
 
-# Software Engineer at The Casely Group
+<h1>Software Engineer at The Casely Group</h1>
 
-CodeWars Top 3% Honors 💯
+<p>CodeWars Top 3% Honors 💯</p>
 
+<p>
 "If you're going to bet on someone, bet on him..." - Ricky V, Software Engineer at Facebook
+</p>
 
----
+<hr>
 
-<div style="width: 500px">
+<p>
 I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning to Optimize Your Marketing & Sales Performance. 📈
-</div>
+</p>
 
----
+<hr>
 
-## Experience
+<h2>Experience</h2>
 
-### The Casely Group
+<h3>The Casely Group</h3>
 
-2019 - Present
+<p>2019 - Present</p>
 
+<p style="max-width: 500px">
 A Software Development Company With A Focus On Optimizing Your Company's Marketing & Sales Performance
+</p>
 
-View Company Website: https://thecaselygroup.com
+<p>View Company Website: https://thecaselygroup.com</p>
 
-## Education
+<h2>Education</h2>
 
-### Massachusetts Institute of Technology
+<h3>Massachusetts Institute of Technology</h3>
 
-MIT OpenCourseWare, Mathematics
+<p>MIT OpenCourseWare, Mathematics</p>
 
-### Abraham University
+<h3>Abraham University</h3>
 
-Entrepreneurship · Marketing · Sales, Business Strategy
+<p>Entrepreneurship · Marketing · Sales, Business Strategy</p>
 
-## Certifications
+<h2>Certifications</h2>
 
-### CodeWars | Top 3% Honors
+<h3>CodeWars | Top 3% Honors</h3>
 
-See Credential: https://www.codewars.com/users/DCasely
+<p>See Credential: https://www.codewars.com/users/DCasely</p>
 
----
+<hr>
 
-### Codecademy | Computer Science (Certification)
+<h3>Codecademy | Computer Science (Certification)</h3>
 
-See Credential: https://www.codecademy.com/profiles/DCASELY
+<p>See Credential: https://www.codecademy.com/profiles/DCASELY</p>
 
----
+<hr>
 
-### DataCamp | Data Analysis Certification
+<h3>DataCamp | Data Analysis Certification</h3>
 
+<p>
 See Credential: https://www.datacamp.com/statement-of-accomplishment/course/a95cffadd5d7f87738b29e8ed3706222bbf84ca4
+</p>
 
----
+<hr>
 
-### freeCodeCamp | JavaScript Algorithms and Data Structures
+<h3>freeCodeCamp | JavaScript Algorithms and Data Structures</h3>
 
+<p>
 See Credential: https://www.freecodecamp.org/certification/dcasely/javascript-algorithms-and-data-structures
+</p>
 
----
+<hr>
 
-### HackerRank | Verified Developer
+<h3>HackerRank | Verified Developer</h3>
 
+<p>
 See Credential: https://www.hackerrank.com/davin_casely?hr_r=1
+</p>
 
----
+<hr>
 
 </div>
