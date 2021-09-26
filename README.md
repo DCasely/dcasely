@@ -12,7 +12,7 @@ CodeWars Top 3% Honors 💯
 
 ---
 
-<div style="max-width: 500px">
+<div style="width: 500px">
 I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning to Optimize Your Marketing & Sales Performance. 📈
 </div>
 
