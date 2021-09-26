@@ -12,17 +12,9 @@ CodeWars Top 3% Honors 💯
 
 ---
 
-I am an Entrepreneur and a Software Engineer with a focus on Enhancing Sales & Marketing Performance. 📈
+I am A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning to Optimize Your Marketing & Sales Performance. 📈
 
 ---
-
-- MILLION 💵 DOLLAR CLUB at Dominos Pizza. Grew sales from $700K to $1.2M after taking over Dominos Corporate Unit 3812. First in the 30-Year history to break the $1M marker for Unit 3812.
-
-- Founder of Point Guard Training, a basketball training program that sold successfully on a global scale to 17 different countries.
-
-- Recorded the HIGHEST SALES COMMISSION Payout in this history of Infinity Sales Group as a result of SELLING 109 accounts for Fortune 500 Dish Network and 52 accounts for HughesNet in the span of just 2-weeks.
-
-LinkedIn Profile: https://www.linkedin.com/in/davincasely/
 
 ## Experience
 
@@ -31,8 +23,6 @@ LinkedIn Profile: https://www.linkedin.com/in/davincasely/
 2019 - Present
 
 A Software Development Company With A Focus On Optimizing Your Company's Marketing & Sales Performance
-
-I've developed a multitude of projects using a variety of tools and technologies such as HTML5, CSS3, Sass, Bootstrap, JavaScript ES6, DOM Manipulation, jQuery, React, Redux, NodeJS, NPM, Express.js, EJS, RESTful APIs, Databases, SQL, MongoDB, Mongoose, Authentication, Wordpress, PHP, Apache, MySQL, Python and more...
 
 View Company Website: https://thecaselygroup.com
 
