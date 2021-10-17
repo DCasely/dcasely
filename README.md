@@ -26,8 +26,8 @@ A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learnin
     </a>
     <a href="https://thecaselygroup.com" target="_blank">
         <img 
-             src="https://thecaselygroup.com/images/fullwidth-gallery-be-env-420x350-2.png" 
-             alt="Be ENV | Wellness &amp; Aesthetics" 
+             src="https://thecaselygroup.com/images/fullwidth-gallery-evolve-medspa-420x350.png" 
+             alt="evolve medical spa" 
              width="25%"                    
              style="margin:10px"
          >
