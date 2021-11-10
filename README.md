@@ -15,7 +15,7 @@
 <hr>
 
 <p>
-A Software Engineer Leveraging High Level Data-Based Decisions & Machine Learning<br> to Optimize Your Marketing & Sales Performance. 📈
+A Software Engineer Leveraging Machine Learning & Analytics<br> to Optimize Your Marketing & Sales Performance. 📈
 </p>
 
 <hr>
