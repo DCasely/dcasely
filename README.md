@@ -22,17 +22,6 @@ A Software Engineer Leveraging Machine Learning & Analytics<br> to Optimize Your
 
 <div align="center">
     <a href="https://thecaselygroup.com" target="_blank">
-        <img src="https://thecaselygroup.com/images/fullwidth-gallery-mdclcp-420x350.png" width="25%" style="margin:10px">
-    </a>
-    <a href="https://thecaselygroup.com" target="_blank">
-        <img 
-             src="https://thecaselygroup.com/images/fullwidth-gallery-evolve-medspa-420x350.png" 
-             alt="evolve medical spa" 
-             width="25%"                    
-             style="margin:10px"
-         >
-    </a>
-    <a href="https://thecaselygroup.com" target="_blank">
-    <img src="https://thecaselygroup.com/images/fullwidth-gallery-vivatherapysolutions-420x350.png" alt="Be ENV | Wellness &amp; Aesthetics" width="25%" style="margin:10px">        
+        <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGWF-98STU04Q/profile-displaybackgroundimage-shrink_200_800/0/1637958002455?e=1655942400&v=beta&t=hk8guKQdY6mnS0Fesa8LAkK6Mgmh_VvgMrJcWKabjRo" style="margin:10px">
     </a>
 </div>
