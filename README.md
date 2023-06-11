@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://thecaselygroup.com/images/cg-logo-transparent.png" width="50">
+    <img src="https://thecaselygroup.com/favicon.ico" width="50">
 </div>
 
 <div align="center">
